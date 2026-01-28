@@ -3,18 +3,30 @@
 <h1 align="center">Hi 👋, I'm Bobby Tripathi</h1>
 <h3 align="center">Salesforce Developer | LWC • Apex • Flows | Accenture</h3>
 
-<img align="right" alt="Coding" src="assets/images/Coding.png" style="width: 300px; height: 190px; margin-top:10px" />
+<!-- <img align="right" alt="Coding" src="assets/images/Coding.png" style="width: 300px; height: 190px; margin-top:10px" /> -->
 
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Salesforce Developer at **Accenture**
-- 🏦 Project experience in **Financial Services Cloud**
-- 💡 Strong in **LWC, Apex, Triggers, Flows**
-- 🌱 Learning **Agentforce, Salesforce AI, CI/CD, Salesforce CLI**
-- 📫 Reach me at **bobbytripathi24@gmail.com**
-- ⚡ Fun fact: **I love food & clean code 😄**
+<table border="0">
+  <tr>
+    <td>
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 Salesforce Developer at <b>Accenture</b></li>
+        <li>🏦 Project experience in <b>Financial Services Cloud</b></li>
+        <li>💡 Strong in <b>LWC, Apex, Triggers, Flows</b></li>
+        <li>🌱 Learning <b>Agentforce, Salesforce AI, CI/CD, Salesforce CLI</b></li>
+        <li>📫 Reach me at <a href="mailto:bobbytripathi24@gmail.com">bobbytripathi24@gmail.com</a></li>
+        <li>⚡ Fun fact: <b>I love food & clean code 😄</b></li>
+      </ul>
+    </td>
+    <td width="40px"></td> 
+    <td style="padding-left: 50px;">
+      <img src="assets/images/Coding.png" width="300px" style="border-radius: 10px;" alt="Coding" />
+    </td>
+  </tr>
+</table>
 
 ---
 
