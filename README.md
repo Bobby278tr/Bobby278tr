@@ -8,25 +8,26 @@
 
 ---
 
-<table border="0">
-  <tr>
-    <td>
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🔭 Salesforce Developer at <b>Accenture</b></li>
-        <li>🏦 Project experience in <b>Financial Services Cloud</b></li>
-        <li>💡 Strong in <b>LWC, Apex, Triggers, Flows</b></li>
-        <li>🌱 Learning <b>Agentforce, Salesforce AI, CI/CD, Salesforce CLI</b></li>
-        <li>📫 Reach me at <a href="mailto:bobbytripathi24@gmail.com">bobbytripathi24@gmail.com</a></li>
-        <li>⚡ Fun fact: <b>I love food & clean code 😄</b></li>
-      </ul>
-    </td>
-    <td width="40px"></td> 
-    <td style="padding-left: 50px;">
-      <img src="assets/images/Coding.png" width="300px" style="border-radius: 10px;" alt="Coding" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none; padding-right: 40px; vertical-align: top;">
+        <h3 align="left">👨‍💻 About Me</h3>
+        <ul align="left">
+          <li>🔭 Salesforce Developer at <b>Accenture</b></li>
+          <li>🏦 Project experience in <b>Financial Services Cloud</b></li>
+          <li>💡 Strong in <b>LWC, Apex, Triggers, Flows</b></li>
+          <li>🌱 Learning <b>Agentforce, Salesforce AI, CI/CD, Salesforce CLI</b></li>
+          <li>📫 Reach me at <b>bobbytripathi24@gmail.com</b></li>
+          <li>⚡ Fun fact: <b>I love food & clean code 😄</b></li>
+        </ul>
+      </td>
+      <td style="border: none; vertical-align: middle;">
+        <img src="assets/images/Coding.png" width="350px" style="border-radius: 10px;" alt="Coding" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
